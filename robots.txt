@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://MC-AHOP.github.io/reference-y25dy2/sitemap.xml
